@@ -18,10 +18,12 @@
 	//! -> Inverter o resultado.
 	//() -> Cria precedência na execução do código. Dá prioiridade e sentido a expressões mais detalhadas.
 
-
+	//este if verifica se 5 é igual a 3
 	if(5 == 3){
+		//diz na tela que eh verdadeiro
 		echo 'verdadeiro';
 	} else{
+		//diz na tela que eh falso
 		echo 'Entrou no bloco else';
 	}
 
